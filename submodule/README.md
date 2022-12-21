@@ -1,0 +1,1 @@
+# Submodule in directory template
