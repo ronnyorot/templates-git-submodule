@@ -1,3 +1,3 @@
 module "submodule-with-internal-module-ref" {
-    source = "git::https://github.com/ronnyorot/templates-git-submodule.git//submodule"
+    source = "git::https://github.com/ronnyorot/templates-git-submodule.git//submodule?ref=0.0.1"
 }
